@@ -1,0 +1,234 @@
+{{frontCover}}
+
+{{logo ![](/assets/naturalCritLogoRed.svg)}} 
+
+# Combatant Rogue
+## By ArchiTectusDicipulus, Version 1
+___
+
+
+{{banner 5e SUBCLASS HOMEBREW}}
+
+{{footnote
+  Masters of cunning and discipline. They use their enemies' mistakes as a weapon.
+}}
+
+
+
+{{imageMaskCenter1,--offsetX:0%,--offsetY:0%,--rotation:0
+  ![The Roman Theater at Taormina, 1828, by Louise-Joséphine sarazin de Belmont](https://i.pinimg.com/736x/80/87/ec/8087ec2bbbb6115b1eb8490d834a2057.jpg){position:absolute,bottom:-10%,left:10%,height:85%}
+}}
+<!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
+     Use --offsetY to shift the mask up or down
+     Use --rotation to set rotation angle in degrees. -->
+
+
+{{watercolor6,top:20px,left:30px,width:300px,background-color:#BBAD82,opacity:80%}}
+
+
+\page
+
+{{watercolor8,top:20px,left:30px,width:300px,background-color:#BBAD82,opacity:80%}}
+
+
+{{imageMaskEdge6,--offset:9%,--rotation:270
+  ![The Roman Theater at Taormina, 1828, by Louise-Joséphine sarazin de Belmont](https://64.media.tumblr.com/cfbdc859dfb69838c4a55d624f9c28eb/93400c2ce40033a7-38/s1280x1920/eb58bfec536371c21d9745bbb1385810047ec204.jpg){position:absolute,left:51%,height:100%}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
+  
+# Rogue Archetype: Combatant 
+Some rogues defeat their enemies through carefully planned ambushes. Others prefer to stand only inches away from an opponent's blade.
+
+Combatent Rogues are duelists, assassins, and opportunists who turn their enemies' mistakes into deadly openings. Rather than relying solely on stealth, they study posture, reach, and rhythm, deflecting blows at precisely the right moment before striking where their foe's defense is weakest.
+
+To a Combatant Rogue, every enemy action is also an opportunity.
+
+### Combatant Training: Level 3
+You focused your training in defensive combat techniques that rely on analyzing opportunities within your opponent's attacks. As result of this combat technique, you gain proficiency with *shields*, *reach weapons*, *heavy armor* and *martial finesse weapons*.
+
+### Countermeasures: Level 3
+You have learned new combat techniques that involve attacking while your opponent performs an action. While you are wielding a **shield** or a **finesse** weapon, you can use the following features:
+
+- **Parry.** When another creature no more than one size category larger hit you with a melee attack, you can use your reaction to reduce the damage by 1d4 + your Dexterity modifier + your rogue level. If you reduce the damage to zero, you can make an attack of opportunity against it, with disavantage.
+
+- **Counter-Attack.** When another creature misses an attack against you within your reach, you can use your reaction to make an opportunity attack againts it, with a light or finesse weapon, with disadvantage.
+
+- **Repress.** If an enemy within your attack range makes an attack roll against another target or cast magic, you can make an attack of opportunity againts it.
+
+
+>You gain a new way to use your Sneak Attack feature based on oportunity attacks, and you can also use different types of weapons on exclusive situations:
+
+
+- **Opportunist.** You can apply your Sneak Attack for opportunities attacks even if you don't have advantage, but not if you have disadvantage.
+
+- **Impaler.** If you use a weapon that has the *reach* propriety, you can add your Sneak Attack feature to an oportunity attack, even if the weapon does not have the finesse propriety, but no if it is heavy.
+
+- **Shooter.** When an attack of opportunity is triggered to you, you can use a *throw* weapon(no action required to pull) or *ranged* weapon, making a attack up to its normal range; all other rules still apply.
+
+
+
+\page
+
+
+\column
+
+
+{{imageMaskEdge2,--offset:4%,--rotation:90
+  ![The Roman Theater at Taormina, 1828, by Louise-Joséphine sarazin de Belmont](https://images4.alphacoders.com/107/thumb-1920-1073940.jpg){position:absolute,left:-132%,height:100%}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
+  
+{{note
+##### Opportunity Attacks
+You can make an opportunity attack when a hostile creature that you can see moves out of your reach. To make the opportunity attack, you use your reaction to make one melee attack against the provoking creature. The attack occurs right before the creature leaves your reach.
+
+}}
+
+### Play dirty: Level 3
+**Prepare.** When you use the *Steady Aim* feature, you gain the benefit of advantage until the end of your next turn, but you still lose it immediately after the attack.
+
+>**Focus and Wait.** When you use the *Dodge* action, you can trade the disadvantage imposed on attacks against you to instead eliminate the disadvantage imposed on attacks made using the Countermeasures feature. However, instead of imposing disadvantage on attack rolls against you, you can choose to grant advantage on attack rolls against you, thereby gaining advantage for attacks from your Countermeasures feature.
+
+### Improved Evasions: Level 9
+If you use your reaction in response to being targeted by an attack roll, taking damage from an attack, taking damage from a spell, or being targeted by a spell, you can use your Countermeasures feature as part of the same reaction, provided all applicable rules are met and the original reaction involves reducing damage or making an attack roll. Succeeding on a Dexterity save throw counts as an available trigger, by the target, for the purposes of *Counter-Attack*, and failing counts as a trigger for *Parry*(if wielding a shield, only).
+
+
+### I Fought Against Equals: Level 13
+If you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:
+
+- Higher total bonus for attack rolls
+- Armor Class
+- Dexterity score
+- Current hit points
+- Total class levels or challenge rating, if any
+  
+### Flash and Roll: Level 13
+You gain 1,5 meters of extra movement. This movement does not provoke attacks of opportunity. You can choose not to spend this move on your turn, saving it to use immediately after your Improved Evasion or Countermeasures features; however, if your movement 
+
+{{watercolor12,top:996px,left:550px,width:300px,background-color:#BBAD82,opacity:80%}}
+
+
+
+
+\page
+
+ends behind cover, you can apply the cover bonus to any Dexterity saving throws and to your Armor Class, potentially preventing the harmful consequence that triggered the reaction.
+
+
+
+
+
+
+
+### Inopportune Condition: Level 17
+You have learned to spot patterns in your opponents and exploit their weaknesses. When you hit an attack against a target that you can see in any of these contexts, it is considered an *Exposed* target:
+- Prone
+- Incapacitated
+- Restrained
+- Taked a stealthy melee hit in this attack
+- Taked a critical hit in this attack
+- Rolled a *critical failure* against you this round (this mark expires after this hit)
+  
+
+
+Hitting a target marked as **Exposed** imposes it to make a Constitution saving throw against your *Combatant Save DC*. If an Exposed target fails the check, it take +10 additional **damage** of the weapon's type and becomes **prone**.
+
+>**Combatant save DC** = 8 + your proficiency bonus + your Dexterity modifier
+
+&emsp; 
+
+{{note
+##### Stealth
+You are stealthy if you succeed in a stealth check contested by the target's passive perception.
+
+##### Exposed
+Exclusive mark for functionalities of this subclass. It is **not** shared with others in combat.
+
+}}
+### Champion Duelist: Level 17
+You have mastered the art of combat and dueling through training and supernatural agility. You can change one of the following combat stances at the start of your turn, but only once per round. You can only have one active instance at a time.
+
+**Dasher.** The reach of your weapons is increased by 1,5 meters.
+
+**Deadeye.** You can use your Counter-Attack feature against targets up to 15 meters away, and the trigger becomes: When another creature misses an attack against a target at this distance, provided you can see both targets. This is compatible with Improved Evasion.
+
+**Consultant.** If you hit the target, you learn one characteristic from your I Fought Against Equals feature.
+
+
+\column
+
+&emsp;**Plunger.** You gain advantage on Dexterity saving throws and you can jump 1,5 meters higher. If you jump from a height that would cause falling damage and land on an enemy, you can use your reaction to make an attack roll while falling. If you hit, you transfer half the falling damage you would have taken to the enemy and can roll your Sneak Attack die.
+
+&emsp;Additionally, if you are hit by a critical hit, you can choose to treat the attack roll as a normal hit; and the attacker is then considered Exposed until the end of you next turn. You can use this feature once per long rest.
+
+<div style="text-align: center;">
+### Credits
+  </div>
+
+  <br>
+  
+{{homebreweryCredits
+Made With
+
+{{homebreweryIcon}}
+
+
+[The Homebrewery  ](https://homebrewery.naturalcrit.com)
+
+Made By ArchiTectusDicipulus
+
+[Click here](https://i.pinimg.com/736x/80/87/ec/8087ec2bbbb6115b1eb8490d834a2057.jpg) to go to image 1
+
+
+[Click here](https://64.media.tumblr.com/cfbdc859dfb69838c4a55d624f9c28eb/93400c2ce40033a7-38/s1280x1920/eb58bfec536371c21d9745bbb1385810047ec204.jpg) to go to image 2
+
+[Click here](https://images4.alphacoders.com/107/thumb-1920-1073940.jpg) to go to image 3
+
+[Click here](https://i.pinimg.com/1200x/77/66/08/776608168d3d92322e8b2f1412347d13.jpg) to go to image 4
+
+[Click here](https://64.media.tumblr.com/882d2a99b17b5be73ace568f79f9bdf3/ce94b150651a608f-be/s1280x1920/ea747352dc5cebfdce1f0b01df0af5d3ba5914d2.jpg) to go to image 5
+
+[Click here](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/Ringed%20City%20Tower.jpg) to go to image 6
+
+}}
+
+
+{{imageMaskCorner29,--offsetX:48%,--offsetY:-55%,--rotation:0
+  ![The Roman Theater at Taormina, 1828, by Louise-Joséphine sarazin de Belmont](https://i.pinimg.com/1200x/77/66/08/776608168d3d92322e8b2f1412347d13.jpg){position:absolute,left:-30%,top:450px,height:60%}
+}}
+<!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
+     Use --offsetY to shift the mask up or down
+     Use --rotation to set rotation angle in degrees. -->
+
+{{imageMaskEdge2,--offset:40%,--rotation:0
+  ![The Roman Theater at Taormina, 1828, by Louise-Joséphine sarazin de Belmont](https://i.pinimg.com/1200x/77/66/08/776608168d3d92322e8b2f1412347d13.jpg){position:absolute,left:-30%,height:60%}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
+{{watercolor11,top:20px,left:30px,width:300px,background-color:#BBAD82,opacity:80%}}
+
+
+
+{{watercolor12,top:215px,left:400px,width:300px,background-color:#BBAD82,opacity:80%}}
+
+
+{{imageMaskCorner29,--offsetX:44%,--offsetY:-50%,--rotation:0
+  ![The Roman Theater at Taormina, 1828, by Louise-Joséphine sarazin de Belmont](https://64.media.tumblr.com/882d2a99b17b5be73ace568f79f9bdf3/ce94b150651a608f-be/s1280x1920/ea747352dc5cebfdce1f0b01df0af5d3ba5914d2.jpg){position:absolute,left:39%,top:190px,height:105%}
+}}
+<!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
+     Use --offsetY to shift the mask up or down
+     Use --rotation to set rotation angle in degrees. -->
+
+
+{{imageMaskCorner28,--offsetX:-50%,--offsetY:-85%,--rotation:0
+  ![The Roman Theater at Taormina, 1828, by Louise-Joséphine sarazin de Belmont](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/Ringed%20City%20Tower.jpg){height:100%}
+}}
+<!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
+     Use --offsetY to shift the mask up or down
+     Use --rotation to set rotation angle in degrees. -->
+
